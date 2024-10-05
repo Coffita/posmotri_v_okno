@@ -225,7 +225,7 @@ ol {
 }
 
 .content__video-card-title {
-  max-width: 240px;
+  max-width: 192px;
   overflow: hidden;
   font-family: Oswald, sans-serif;
   font-weight: 700;
